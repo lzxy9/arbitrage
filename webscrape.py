@@ -8,8 +8,7 @@ soup = BeautifulSoup(response.text, 'html.parser')
 # Find all li elements with the specific class
 items = soup.find_all('li', class_='cardOuterItem_fn8ai8t')
 
-for item in items:
-    # Extract data from each item as needed
-    print(item.text)  # Gets all text content
-    # Or find specific elements within each li
-    # price = item.find('span', class_='price-class').text
+with open('output.txt', 'w', encoding='utf-8') as f:
+    for item in items:
+        item_text = item.text.strip()  # Gets all text content and removes extra whitespace
+        f.write(item_text + '\n')  # Write to file with a newline

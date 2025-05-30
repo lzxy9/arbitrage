@@ -1,25 +1,76 @@
-LIVE15:08 | ITF Uzbekistan Futures12 MarketsAlexander UshakovIshaque EqbalAlexander Ushakov YesAlexander Ushakov No3.001.32
-LIVE16:42 | ITF Uzbekistan Futures13 MarketsRenta TokudaAlexander ChepikRenta Tokuda YesRenta Tokuda No1.00151.00
-LIVE14:35 | Mens UTR Pro Series, Australia10 MarketsNikita VolonskiSam WensleyNikita Volonski2.90Sam Wensley1.34
-LIVE14:41 | Mens UTR Pro Series, Australia8 MarketsBoyd SchreiberCharlie PadeBoyd Schreiber1.83Charlie Pade1.83
-LIVE19:10 | ITF Armenia Futures12 MarketsSimeon StankovicSilvio Mencaglia
-LIVE15:12 | ITF South Korea Futures10 MarketsJeamoon LeeEvan ZhuJeamoon Lee1.19Evan Zhu4.00
-LIVE15:29 | ITF South Korea Futures14 MarketsYeongseok JeongYuta KikuchiYeongseok Jeong3.25Yuta Kikuchi1.28
-LIVE15:42 | ITF Maanshan18 MarketsShilin XuJing-jing LuShilin Xu1.03Jing-jing Lu8.00
-LIVE15:44 | ITF Daegu14 MarketsGyeong Seo LeeSein MyoungGyeong Seo Lee1.05Sein Myoung7.25
-LIVE15:53 | ITF South Korea Futures13 MarketsMin Seong KimDong Ju KimMin Seong Kim26.00Dong Ju KimSuspended
-LIVE16:08 | ITF Armenia Futures14 MarketsJuan Cruz Martin ManzanoIvan DenisovJuan Cruz Martin Manzano1.06Ivan Denisov7.00
-LIVE16:10 | ITF Armenia Futures14 MarketsAlexandr BindaRuslan TiukaevAlexandr Binda1.53Ruslan Tiukaev2.30
-LIVE16:10 | ITF Armenia Futures16 MarketsManuel PlungerTristan StringerManuel Plunger1.36Tristan Stringer2.80
-LIVE16:10 | ITF Maanshan Doubles10 MarketsM Y Chen / R ZouM Wang / Y YangM Y Chen / R Zou6.00M Wang / Y Yang1.07
-LIVE16:35 | eBasketball H2H GG League 4x5mins2 MarketsToronto Raptors (EXO)Miami Heat (KJMR)Toronto Raptors (EXO)1.57Miami Heat (KJMR)2.20
-LIVE16:43 | eBasketball H2H GG League 4x5mins2 MarketsToronto Raptors (SKYFOX)Brooklyn Nets (DIMES)Toronto Raptors (SKYFOX)4.50Brooklyn Nets (DIMES)1.14
-LIVE16:51 | eBasketball H2H GG League 4x5mins9 MarketsNew York Knicks (DOUBLEFOUR)Oklahoma City Thunder (CLAW)
-LIVE16:45 | TT Elite Series Men1 MarketJakub GlanowskiMilosz PiecowskiJakub Glanowski2.00Milosz Piecowski1.70
-LIVE16:45 | TT Elite Series Men1 MarketMarcin BalcerzakPiotr ChlodnickiMarcin Balcerzak1.57Piotr Chlodnicki2.20
-LIVE16:45 | TT Elite Series Men1 MarketMateusz GolebiowskiDamian WederlichMateusz Golebiowski3.15Damian Wederlich1.29
-LIVE16:50 | TT Elite Series Men1 MarketMichal KumorJakub PruszkowskiMichal Kumor3.60Jakub Pruszkowski1.23
-LIVE16:30 | Philippine NCAA Women2 MarketsSBU LionessesPerpetual Help Lady AltasSBU Lionesses1.72Perpetual Help Lady Altas2.00
-LIVE16:40 | TT Cup1 MarketStefan AhlstromPablo GarciaStefan Ahlstrom1.23Pablo Garcia3.60
-LIVE16:44 | Czech TT - Star Series1 MarketAmeer ThamerOleksandr TymofieievAmeer Thamer2.45Oleksandr Tymofieiev1.46
-LIVE16:50 | TT Cup1 MarketAles Brandtl JrFrantisek DvorakAles Brandtl Jr1.58Frantisek Dvorak2.18
+LIVE16:30 | Ethiopian Premier League13 MarketsAdama Kenema fcHadiah Hosanna FCAdama Kenema fc1.33Draw3.40Hadiah Hosanna FC9.50
+LIVE17:30 | New Zealand Matches23 MarketsBay OlympicAuckland UnitedBay Olympic6.50Draw4.10Auckland United1.33
+RAIN DELAY17:38 | ITF Turkiye Futures22 MarketsWilliam JansenPatrick BradyWilliam Jansen2.25Patrick Brady1.57
+RAIN DELAY17:39 | ITF Turkiye Futures23 MarketsMaxwell MckennonDaniel De JongeMaxwell Mckennon1.29Daniel De Jonge3.15
+LIVE16:22 | ITF China Futures Doubles5 MarketsX Han / T-h HuangM Yang / T ZhangX Han / T-h Huang2.55M Yang / T Zhang1.43
+LIVE17:26 | ITF China Futures Doubles10 MarketsQ Sun / L XiaoY Zeng / Z ZhengQ Sun / L Xiao4.25Y Zeng / Z Zheng1.17
+LIVE17:07 | ITF Greece Futures23 MarketsErgi KirkinThomas BraithwaiteErgi Kirkin1.28Thomas Braithwaite3.25
+LIVE17:10 | ITF Greece Futures Doubles12 MarketsS Cooper / M HowseO Kimhi / A ValesS Cooper / M Howse2.27O Kimhi / A Vales1.54
+LIVE17:13 | ITF Greece Futures Doubles11 MarketsZ Adam-gedge / S Ryan ZiegannE Cook / D MarquesZ Adam-gedge / S Ryan Ziegann2.27E Cook / D Marques1.54
+LIVE19:06 | ITF Uzbekistan Futures12 MarketsDmitry BessonovLorenzo Lorusso
+LIVE21:57 | ITF Uzbekistan Futures9 MarketsMatteo LavizzariZura Tkemaladze
+LIVE16:10 | ITF Uzbekistan Futures17 MarketsAristarkh SafonovAmir Milushev
+LIVE16:53 | ITF South Korea Futures Doubles9 MarketsS Shin / S SimJ Lee / J NamS Shin / S Sim1.32J Lee / J Nam3.00
+LIVE16:57 | ITF Daegu Doubles10 MarketsH Han / E KimR Saigo / Y Saigo
+LIVE17:07 | ITF Daegu Doubles10 MarketsN H Kang / E OhD Kim / Y KuN H Kang / E Oh2.10D Kim / Y Ku1.63
+LIVE17:08 | Ladies UTR Pro Series, Slovakia16 MarketsKlara KajabovaDominika PodhajeckaKlara Kajabova5.00Dominika Podhajecka1.12
+LIVE17:23 | ITF South Korea Futures Doubles12 MarketsS Kwon / U ParkY Kono / K OguraS Kwon / U Park1.50Y Kono / K Ogura2.37
+RAIN DELAY17:31 | ITF Kayseri32 MarketsMilana MaslenkovaViktoria MorvayovaMilana Maslenkova8.00Viktoria Morvayova1.04
+LIVE17:33 | ITF Kayseri31 MarketsAyline Esina SamardzicDuru Soke
+RAIN DELAY17:37 | ITF Kayseri27 MarketsZoziya KardavaAlina SogomonyanZoziya Kardava1.005Alina Sogomonyan12.00
+LIVE17:40 | ITF Kursumlijska Banja23 MarketsLia KaratanchevaDenislava GlushkovaLia Karatancheva2.07Denislava Glushkova1.65
+LIVE17:42 | ITF Kursumlijska Banja23 MarketsAlevtina IbragimovaFranziska Sziedat
+LIVE17:43 | ITF Kursumlijska Banja23 MarketsAnastasia ZolotarevaAnja StankovicAnastasia Zolotareva1.48Anja Stankovic2.40
+LIVE17:46 | ITF Serbia Futures22 MarketsSean HessDamien WengerSean Hess4.25Damien Wenger1.17
+LIVE17:47 | ITF Serbia Futures21 MarketsBenjamin TorrealbaYounes Lalami Laaroussi
+LIVE15:15 | DPW Tour Austrian Open1 Market72 Hole Matchbet Kazuma Kobori vs Romain LangasqueRomain LangasqueKazuma Kobori1.572.40
+LIVE15:15 | DPW Tour Austrian Open1 Market72 Hole Matchbet Keita Nakajima vs Rasmus Neergaard-PetersenKeita NakajimaRasmus Neergaard-Petersen2.101.62
+LIVE15:15 | DPW Tour Austrian Open1 MarketGroup AHaotong Li2.60Joost Luiten3.60Matthew Jordan4.00Rasmus Neergaard-Petersen5.50Jordan Smith12.00
+LIVE15:15 | DPW Tour Austrian Open1 MarketGroup BEugenio Chacarra3.40Jorge Campillo3.60Richard Mansell3.60Martin Couvra4.50Keita Nakajima7.50
+LIVE15:15 | DPW Tour Austrian Open1 MarketGroup CFrancesco Laporta2.88Alex Fitzpatrick4.33Brandon Stone4.50Kristoffer Reitan5.00Wenyi Ding5.50
+LIVE15:15 | DPW Tour Austrian Open1 MarketGroup DAdrien Saddier4.00Jayden Schaper4.00Edoardo Molinari4.20Julien Guerrier4.20Daniel Hillier5.50
+LIVE15:15 | DPW Tour Austrian Open1 MarketGroup EBrandon Robinson Thompson2.50David Micheluzzi3.75Frederic Lacroix3.75Daniel Brown6.00Angel Ayora11.00
+LIVE15:15 | DPW Tour Austrian Open1 MarketGroup FAndrea Pavan4.00Jacques Kruyswijk4.00John Catlin4.33Bernd Wiesberger4.50Calum Hill5.00
+LIVE15:15 | DPW Tour Austrian Open1 MarketTop 10Haotong Li2.75Eugenio Chacarra3.50Francesco Laporta3.50Joost Luiten3.60Nicolai von Dellingshausen3.75Show All
+LIVE15:15 | DPW Tour Austrian Open1 MarketTop 20Haotong Li1.83Francesco Laporta2.10Nicolai von Dellingshausen2.20Joost Luiten2.25Eugenio Chacarra2.30Show All
+LIVE15:15 | DPW Tour Austrian Open1 MarketTop 5Haotong Li4.33Eugenio Chacarra6.00Francesco Laporta6.00Joost Luiten6.00Jorge Campillo7.00Show All
+LIVE15:15 | DPW Tour Austrian Open1 MarketTop AfricanBrandon Stone5.50Jacques Kruyswijk5.50Jayden Schaper5.50Wilco Nienaber8.50Dylan Frittelli10.00Show All
+LIVE15:15 | DPW Tour Austrian Open1 MarketTop AsianHaotong Li2.70Yuto Katsuragawa6.00Wenyi Ding6.50Adrian Otaegui8.00Keita Nakajima8.50Show All
+LIVE15:15 | DPW Tour Austrian Open1 MarketTop Continental EuropeanEugenio Chacarra12.00Joost Luiten13.00Francesco Laporta15.00Jorge Campillo17.00Nicolai von Dellingshausen17.00Show All
+LIVE15:15 | DPW Tour Austrian Open1 MarketTop DanishJacob Skov Olesen2.88Rasmus Neergaard-Petersen3.00Jeff Winther5.50Hamish Brown9.50Lucas Bjerregaard10.00Show All
+LIVE15:15 | DPW Tour Austrian Open1 MarketTop EnglishMatthew Jordan7.00Richard Mansell7.50Alex Fitzpatrick9.00Brandon Robinson Thompson10.00Andy Sullivan12.00Show All
+LIVE15:15 | DPW Tour Austrian Open1 MarketTop EuropeanEugenio Chacarra15.00Joost Luiten17.00Francesco Laporta19.00Matthew Jordan21.00Jorge Campillo23.00Show All
+LIVE15:15 | DPW Tour Austrian Open1 MarketTop FrenchMartin Couvra5.00Adrien Saddier6.00Julien Guerrier6.50Ugo Coussaud6.50Frederic Lacroix11.00Show All
+LIVE15:15 | DPW Tour Austrian Open1 MarketTop GermanNicolai von Dellingshausen2.80Marcel Schneider5.50Marcel Siem5.50Yannik Paul9.00Maximilian Kieffer9.50Show All
+LIVE15:15 | DPW Tour Austrian Open1 MarketTop ItalianFrancesco Laporta2.25Andrea Pavan3.40Edoardo Molinari3.60Gregorio De Leo10.00
+LIVE15:15 | DPW Tour Austrian Open1 MarketTop NordicRasmus Neergaard-Petersen7.00Kristoffer Reitan8.00Oliver Lindell8.00Jacob Skov Olesen9.00Niklas Lemke9.50Show All
+LIVE15:15 | DPW Tour Austrian Open1 MarketTop North AmericanJohn Catlin4.20Brandon Wu5.50Aaron Cockerill6.00Troy Merritt6.00Davis Bryant7.00Show All
+LIVE15:15 | DPW Tour Austrian Open1 MarketTop OceaniaDaniel Hillier4.20David Micheluzzi4.50Jason Scrivener4.50Elvis Smylie5.00Kazuma Kobori7.50Show All
+LIVE15:15 | DPW Tour Austrian Open1 MarketTop Rest of WorldHaotong Li5.00Brandon Stone12.00Jacques Kruyswijk12.00Jayden Schaper12.00Wenyi Ding15.00Show All
+LIVE15:15 | DPW Tour Austrian Open1 MarketTop ScottishCalum Hill3.00Scott Jamieson3.40Grant Forrest4.00Connor Syme4.50Marc Warren46.00
+LIVE15:15 | DPW Tour Austrian Open1 MarketTop SpanishEugenio Chacarra3.75Jorge Campillo4.33Nacho Elvira7.50Luis Masaveu11.00Ivan Cantero12.00Show All
+LIVE15:15 | DPW Tour Austrian Open1 MarketTop SwedishNiklas Lemke4.33Marcus Kinhult5.00Sebastian Söderberg6.00Jens Dantorp6.50Algot Kleen7.50Show All
+LIVE15:15 | DPW Tour Austrian Open1 MarketTop UK&IMatthew Jordan8.00Richard Mansell8.50Alex Fitzpatrick10.00Brandon Robinson Thompson12.00Andy Sullivan15.00Show All
+LIVE15:45 | DPW Tour Austrian Open1 Market3 Ball (Round 1) - Brown / Zanotti / Sharma
+LIVE16:05 | DPW Tour Austrian Open1 Market3 Ball (Round 1) - Lacroix / Amat / BrownFrederic LacroixHamish BrownBastien Amat2.002.884.00
+LIVE16:15 | DPW Tour Austrian Open1 Market3 Ball (Round 1) - Ahlawat / Sordet / Lindell
+LIVE16:25 | DPW Tour Austrian Open1 Market3 Ball (Round 1) - Johnston / Laporta / Syme
+LIVE16:40 | DPW Tour Austrian Open1 Market3 Ball (Round 1) - Kobori / Ravetto / Gumberg
+LIVE17:14 | New Zealand NBL35 MarketsWhaiFranklin BullsWhai1.53Franklin Bulls2.35
+LIVE17:31 | eBasketball H2H GG League 4x5mins2 MarketsBoston Celtics (HOLLOW)New York Knicks (HOGGY)Boston Celtics (HOLLOW)4.50New York Knicks (HOGGY)1.14
+LIVE17:47 | eBasketball H2H GG League 4x5mins9 MarketsToronto Raptors (SPECTER)Chicago Bulls (KOBRA)Toronto Raptors (SPECTER)1.67Chicago Bulls (KOBRA)2.00
+LIVE17:40 | TT Elite Series Men1 MarketMateusz GolebiowskiAmirreza AbbasiMateusz Golebiowski1.07Amirreza Abbasi6.00
+LIVE17:20 | TT Cup1 MarketJosef RuzickaVaclav Hejda JrJosef Ruzicka1.52Vaclav Hejda Jr2.30
+LIVE17:30 | Challenger Series Men1 MarketLiang QiuDamian ZechLiang QiuSuspendedDamian Zech14.00
+LIVE17:35 | TT Cup1 MarketKamil KlocekPawel GolaKamil Klocek1.13Pawel Gola4.90
+LIVE17:40 | TT Cup1 MarketAlejandro MartinezJuan CayuelaAlejandro Martinez9.00Juan Cayuela1.01
+LIVE15:15 | DPW Tour Austrian Open1 Market1st Round Leader
+LIVE15:15 | DPW Tour Austrian Open1 MarketWill there be a hole-in-one
+LIVE15:15 | DPW Tour Austrian Open1 MarketWin Only
+LIVE15:15 | DPW Tour Austrian Open1 MarketWinner W/O Haotong Li, Jordan Smith, Matthew Jordan, Rasmus Neergaard-Petersen
+LIVE15:40 | DPW Tour Austrian Open1 MarketNumber Of Birdies (or better) in the Round (Round 1) - Rasmus Neergaard-Petersen
+LIVE15:40 | DPW Tour Austrian Open1 MarketRound 1 Score - Rasmus Neergaard-Petersen
+LIVE15:50 | DPW Tour Austrian Open1 MarketNumber Of Birdies (or better) in the Round (Round 1) - Haotong Li
+LIVE15:50 | DPW Tour Austrian Open1 MarketRound 1 Score - Haotong Li
+LIVE16:00 | DPW Tour Austrian Open1 MarketRound 1 Score - Daniel Hillier
+LIVE16:00 | DPW Tour Austrian Open1 MarketRound 1 Score - Keita Nakajima
